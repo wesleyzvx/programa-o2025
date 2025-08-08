@@ -199,3 +199,6 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+#indentado {
+    text-indent: 30px;
+}
